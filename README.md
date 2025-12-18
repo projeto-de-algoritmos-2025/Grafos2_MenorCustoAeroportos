@@ -39,7 +39,7 @@ Obs: Os valores apresentados são ilustrativos e dependem do dataset utilizado.
 Exemplo da execução do Djikstra:
 
 <p align="center">
-  <img src="assets/dijkstra.png" alt="Dijkstra" width="700px"/>
+  <img src="assets/djikstra.png" alt="Dijkstra" width="700px"/>
 </p>
 
 Exemplo da execução do Kruskal:
