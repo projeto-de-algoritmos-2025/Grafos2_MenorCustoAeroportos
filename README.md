@@ -27,11 +27,16 @@ O algoritmo de Kruskal encontra uma árvore geradora mínima em um grafo pondera
 
 ## Exemplo de Uso
 
-Aeroporto de origem: GRU Aeroporto de destino: JFK
+- Aeroporto de origem: GRU 
+- Aeroporto de destino: JFK
 
-Menor distância encontrada: 7685 km Caminho: GRU -> MIA -> JFK
+1. Para Djikstra:
+Custo mínimo: 7685 km 
+Caminho: GRU -> MIA -> JFK
 
-Custo total da árvore geradora mínima: 123456 km
+2. Para Kruskal:
+Custo total da MST: 123456 km
+Número total de arestas: 121
 
 Obs: Os valores apresentados são ilustrativos e dependem do dataset utilizado.
 
