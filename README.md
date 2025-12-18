@@ -31,12 +31,12 @@ O algoritmo de Kruskal encontra uma árvore geradora mínima em um grafo pondera
 - Aeroporto de destino: JFK
 
 1. Para Djikstra:
-Custo mínimo: 7685 km 
-Caminho: GRU -> MIA -> JFK
+- Custo mínimo: 7685 km 
+- Caminho: GRU -> MIA -> JFK
 
 2. Para Kruskal:
-Custo total da MST: 123456 km
-Número total de arestas: 121
+- Custo total da MST: 123456 km
+- Número total de arestas: 121
 
 Obs: Os valores apresentados são ilustrativos e dependem do dataset utilizado.
 
